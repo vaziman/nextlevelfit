@@ -4,13 +4,13 @@ NextLevelFit is a Java-based fitness analytics platform that integrates with Str
 
 ## Features
 
-- 🏃‍♂️ Workout data collection from Strava API (running, cycling, etc.)
-- 📊 User registration and login (with role-based access)
-- 🔐 OAuth2 authentication with Strava
-- 📈 Basic workout statistics (distance, duration, pace)
-- 📄 RESTful API built with Spring Boot
-- 🗃 PostgreSQL database integration with Hibernate
-- ⚙️ API documentation via Swagger UI
+-  Workout data collection from Strava API (running, cycling, etc.)
+-  User registration and login (with role-based access)
+-  OAuth2 authentication with Strava
+-  Basic workout statistics (distance, duration, pace)
+-  RESTful API built with Spring Boot
+-  PostgreSQL database integration with Hibernate
+-  API documentation via Swagger UI
 
 ## Technologies
 
